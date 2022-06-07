@@ -1,0 +1,97 @@
+#home {
+    /* background: #FC466B; 
+    background: -webkit-linear-gradient(to bottom, #3F5EFB, #FC466B);   */
+    height: 100vh;
+    background-image: linear-gradient( 113.3deg,  rgba(217,9,27,1) 6.9%, rgba(22,68,150,1) 75% );
+}
+
+#features {
+    margin: 5% 0 7% 0;
+}
+
+#contact {
+    background-image: linear-gradient( 113.3deg,  rgba(217,9,27,1) 6.9%, rgba(22,68,150,1) 75% );
+}
+
+.navy {
+    background-image: linear-gradient( 113.3deg,  rgba(217,9,27,1) 6.9%, rgba(22,68,150,1) 75% );
+}
+
+.cardy{
+    margin-top: 0;
+    margin-bottom: 10%;
+}
+.home-1{
+    font-family: 'Merienda One', cursive;
+    color: white;
+    font-size: 3.4rem;
+    margin: 22rem 0 1rem 0;
+}
+.home-4{
+    font-family: 'Merienda One', cursive;
+    color: white;
+    font-size: 3.4rem;
+    margin: 12rem 0 1rem 0;
+}
+.home-5{
+    font-family: 'Merienda One', cursive;
+    color: white;
+    font-size: 3.4rem;
+    margin: 6rem 0 1rem 0;
+}
+.home-2 {
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+    font-size: 1.5rem;
+}
+
+.home-3{
+    font-family: 'Ubuntu', sans-serif;
+    color: black;
+    font-size: 3.4rem;
+}
+
+.n-font {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.features-icons {
+    color: #FC466B;
+}
+
+.features-icons:hover{
+    color: #AA1738;
+}
+
+.features-heading {
+    margin-top: 25px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    font-size: 2rem;
+}
+
+.features-para {
+    margin-top: 3px;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 500;
+    font-size: 1.25rem;
+}
+
+.icons {
+    margin: 7% 1.5% 1% 1.5%;
+    color: black;
+}
+
+.downloads {
+    height: 100vh;
+    width: 100vh;
+}
+
+.arrow {
+    width: 15%;
+    text-align: center;
+}
+
+.iframe {
+    margin-top: 3%;
+}
