@@ -57,7 +57,7 @@
     font-family: 'Ubuntu', sans-serif;
     color: white;
     font-size: 1.5rem;
-    margin: 0 4rem 0 4rem;
+    margin: 0 1rem 0 1rem;
 }
 
 .home-3{
@@ -119,14 +119,19 @@
 }
 
 @media (max-width: 450px){
-    
     .iframe {
         
         margin-top: 13%;
         position: relative;
         left: 25%;
     }
-    .test{width: 20rem;
-        height: 70rem;}
+    .test{
+        width: 20rem;
+        height: 70rem;
+    }
+    .home-1{
+        padding-top: 4rem;
+        font-size: 2.7rem;
+    }
 }
 
