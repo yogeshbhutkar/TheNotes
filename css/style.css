@@ -118,12 +118,15 @@
     margin-top: 3%;
 }
 
-@media (max-width: 415px){
+@media (max-width: 450px){
     
     .iframe {
+        
         margin-top: 13%;
         position: relative;
-        left: 20%;
+        left: 25%;
     }
+    .test{width: 20rem;
+        height: 70rem;}
 }
 
